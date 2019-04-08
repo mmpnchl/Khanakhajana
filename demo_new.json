@@ -1,0 +1,378 @@
+{
+  "FoodCategory": {
+	"01": {
+      "Name": "Starters",
+      "Image": "https://i.ndtvimg.com/i/2015-07/appetizers-625_625x350_41436947402.jpg?downsize=630:380&output-quality=70&output-format=webp"    
+	  },
+	"02": {
+      "Name": "Soups",
+      "Image": "https://www.ndtv.com/cooks/images/Sakura.Wood.Smoked.Pumpkin.000.soup.jpg?downsize=205:205&output-quality=70&output-format=webp"
+    },
+    "03": {
+      "Name": "Gujarati Cuisine",
+      "Image": "http://34c6b8841d4124020671-5bfabe5484726969ac662c6d377e2f3c.r16.cf2.rackcdn.com/themes/img/cuisine-img6.jpg"
+    },
+    "04": {
+      "Name": "Punjabi Cuisine",
+      "Image": "http://34c6b8841d4124020671-5bfabe5484726969ac662c6d377e2f3c.r16.cf2.rackcdn.com/themes/img/cuisine-img2.jpg"
+    },
+    "05": {
+      "Name": "Rajasthani Cuisine",
+      "Image": "http://34c6b8841d4124020671-5bfabe5484726969ac662c6d377e2f3c.r16.cf2.rackcdn.com/themes/img/cuisine-img5.jpg"
+    },
+    "06": {
+      "Name": "South Indian Cuisine",
+      "Image": "http://34c6b8841d4124020671-5bfabe5484726969ac662c6d377e2f3c.r16.cf2.rackcdn.com/themes/img/cuisine-img10.jpg"
+    },
+    "07": {
+      "Name": "Mexican Cuisine",
+      "Image": "https://i.ndtvimg.com/i/2015-03/mexican-food_625x350_81426070124.jpg?downsize=630:380&output-quality=70&output-format=webp"
+    },
+    "08": {
+      "Name": "Deserts",
+      "Image": "https://i.ndtvimg.com/i/2016-03/dessert-recipes-chocolate-625_625x350_41457604727.jpg?downsize=630:380&output-quality=70&output-format=webp"
+    },
+    "09": {
+      "Name": "Deserts",
+      "Image": "https://i.ndtvimg.com/i/2016-04/halwa_625x350_51460704197.jpg?downsize=630:380&output-quality=70&output-format=webp"
+    },
+    "08": {
+      "Name": "Soft Drinks",
+      "Image": "https://i.ndtvimg.com/i/2016-05/lime-juice_625x350_41464075711.jpg?downsize=630:380&output-quality=70&output-format=webp"
+    }
+  },
+  "User" : {
+		"9537330145" : {
+			"Name" : "Akshay",
+			"Password" : "1234",
+			"secureCode": "abc123"
+		},
+		"9537330155" : {
+			"Name" : "Dhruv",
+			"Password" : "12345",
+			"secureCode": "abc123"
+		},
+		"9537330166" : {
+			"name" : "Amit",
+			"password" : "123",
+			"secureCode": "abc123"
+		}
+  },
+  "Foods": {
+    "10": {
+      "Name": "Mexican Soup",
+      "Image": "https://i.ndtvimg.com/i/2016-09/mushroom-soup_500x300_51473332672.jpg",
+      "Description": "A delicious soup with chickpeas, kidney beans and lots of vegetables that will keep you warm during the winters",
+      "Price": "150",
+      "MenuId": "02"
+    },
+    "11": {
+      "Name": "Undhiyu",
+      "Image": "https://i.ndtvimg.com/i/2016-01/undhiyu_625x350_61452750496.jpg",
+      "Description": "This Gujarati vegetable curry is wholesome and very healthy. Made with a mélange of winter veggies like brinjals, surti papdi, potatoes, coconut, bananas and methi, this dish is traditionally served in earthen pots.",
+      "Price": "130",
+      "MenuId": "03"
+    },
+    "12": {
+      "Name": "Aam Shrikhand with Mango Salad",
+      "Image": "https://i.ndtvimg.com/i/2016-05/mango-shrikhand_625x350_71464264315.jpg",
+      "Description": "Shrikhand is a simple and soothing Gujarati dessert made with hung curd.",
+      "MenuId": "03"
+    },
+    "13": {
+      "Name": "Gujarati Kadhi",
+      "Image": "https://i.ndtvimg.com/i/2016-04/kadhi_625x350_71461046025.jpg",
+      "Description": "A staple in almost every household, Gujarati kadhi is a lovely curry with sweet undertones. This cooling curry is great to escape the heat.",
+      "Price": "130",
+      "MenuId": "03"
+    },
+    "14": {
+      "Name": "Dhokla",
+      "Image": "https://i.ndtvimg.com/i/2016-06/dhokla_625x350_41464861284.jpg",
+      "Description": "The ultimate Gujarati food, these Soft and spongy dhoklas just cannot be missed. Dhokla is one of the most loved Gujarati snack across the country and is made in multiple ways.",
+      "Price": "130",
+      "MenuId": "03"
+    },
+    "15": {
+      "Name": "Bardoli ki Khichdi",
+      "Image": "https://i.ndtvimg.com/i/2015-12/khichdi-625_625x350_61451289605.jpg",
+      "Description": "A fragrant rice preparation along with dal, spices, peas, potatoes and raw mangoes. This is a Gujarati delight that one shouldn't miss!",
+      "Price": "130",
+      "MenuId": "03"
+    },
+    "16": {
+      "Name": "Sarson Ka Saag Aur Makki Ki Roti",
+      "Image": "https://i.ndtvimg.com/i/2015-01/saag_625x350_51420779118.jpg",
+      "Description": "Palak, bathua and sarso saag come together to create a sensation with hearty makke ki roti. Simple, savoury and full of rustic flavours.",
+      "Price": "180",
+      "MenuId": "04"
+    },
+    "17": {
+      "Name": "Chole Bhature",
+      "Image": "https://i.ndtvimg.com/i/2015-01/625-chole-bhature_625x350_41420696838.jpg",
+      "Description": "Talk about Punjabi food and the popular chole bhature can never be given a skip.",
+      "Price": "180",
+      "MenuId": "04"
+    },
+    "18": {
+      "Name": "Masala Channa",
+      "Image": "https://i.ndtvimg.com/i/2015-01/625-channa_625x350_71420696993.jpg",
+      "Description": "Boiled chickpeas wrapped in a flavourful mix of masalas and cooked to perfection. A quick fix for an afternoon meal or a great option for a hurried weekday dinner.",
+      "Price": "180",
+      "MenuId": "04"
+    },
+    "19": {
+      "Name": "Dal Makhani",
+      "Image": "https://i.ndtvimg.com/i/2015-01/dal-makhni-625_625x350_61420697068.jpg",
+      "Description": "From the local highway dhabas to some of the most sophisticated five star hotels - Dal makhni finds its dedicated space on menus across eating joints and restaurants and beyond all cultural division.",
+      "Price": "180",
+      "MenuId": "04"
+    },
+    "20": {
+      "Name": "Machchli Amritsari",
+      "Image": "https://i.ndtvimg.com/i/2017-03/fish-tikka_725x483_51488522042.jpg",
+      "Description": "A treat for all fish lovers. Beautiful pieces of fish, coated in a spicy batter and deep fried to a golden perfection.",
+      "Price": "180",
+      "MenuId": "04"
+    },
+    "21": {
+      "Name": "Macchhilli Jaisamandi",
+      "Image": "https://i.ndtvimg.com/i/2015-01/fish-curry-main_625x350_71421935397.jpg",
+      "Description": "Tender fish pieces are marinated in a green paste, fried and further cooked in a mouth-watering gravy full of spices and silky texture of cream.",
+      "Price": "150",
+      "MenuId": "05"
+    },
+    "22": {
+      "Name": "Gatte ki Sabzi",
+      "Image": "https://i.ndtvimg.com/i/2015-04/625-gatte_625x350_71429598908.jpg",
+      "Description": "A scrumptious Rajput dish, gatte are basically cooked gram flour dumplings dipped in the spicy curd gravy.",
+      "Price": "150",
+      "MenuId": "05"
+    },
+    "23": {
+      "Name": "Aamras ki Kadhi",
+      "Image": "https://i.ndtvimg.com/i/2015-10/kadhi_625x350_81443681401.jpg",
+      "Description": "A quick, easy and tangy curry, Aamras ki kadhi has mango puree blended with buttermilk and besan, topped with boondi and a tadka of desi spices.",
+      "Price": "150",
+      "MenuId": "05"
+    },
+    "24": {
+      "Name": "Kairi Curry with Khoba Roti",
+      "Image": "https://i.ndtvimg.com/i/2015-10/sambar_625x350_71444723528.jpg",
+      "Description": "Plate up with this tangy mango curry teamed with the traditional Rajasthani khoba roti.",
+      "Price": "150",
+      "MenuId": "05"
+    },
+    "25": {
+      "Name": "Rajasthani Mirchi Vada",
+      "Image": "https://i.ndtvimg.com/i/2016-06/mirchi-pakora_625x350_81464850631.jpg",
+      "Description": "This street snack is also known as Jodhpuri mirchi vada. Stuffed masala aloo filling is mingled with green peppers and deep fried.",
+      "Price": "150",
+      "MenuId": "05"
+    },
+    "26": {
+      "Name": "Kadala curry",
+      "Image": "https://i.ndtvimg.com/i/2017-03/kadala-curry_620x350_51490966850.jpg",
+      "Description": "Some of the popularly used spices in Kerala's cuisine are pepper, cumin, chillies, cinnamon, cardamom, cloves and turmeric. Coconut, tamarind, unripe mango, lime juice, vinegar and curd are also used extensively.",
+      "Price": "150",
+      "MenuId": "06"
+    },
+    "27": {
+      "Name": "Crisp vadas",
+      "Image": "https://i.ndtvimg.com/i/2015-02/vada_625x350_81422883718.jpg?downsize=630:380&output-quality=70&output-format=webp",
+      "Description": "A treat for all fish lovers. Beautiful pieces of fish, coated in a spicy batter and deep fried to a golden perfection.",
+      "Price": "150",
+      "MenuId": "06"
+    },
+    "28": {
+      "Name": "Coorg",
+      "Image": "https://i.ndtvimg.com/i/2017-08/pork-curry_650x400_41504097144.jpg",
+      "Description": "From Udupi's crisp masala dosai to Coorg's spicy pork curry, the food of Karnataka is as diverse as it gets. Mangaloreans use a lot of dried coconut and chillies which are known as Gaati Mensu in their food.",
+      "Price": "150",
+      "MenuId": "06"
+    },
+    "29": {
+      "Name": "The Creamy Haleem",
+      "Image": "https://i.ndtvimg.com/i/2017-03/haleem_620x350_61490172365.jpg",
+      "Description": "The chilli that's generously used in Andhra cuisine is the Guntur red chilli. Those in the Rayalaseema region use a lot of ragi along with jaggery, shallots and fenugreek paste.",
+      "Price": "150",
+      "MenuId": "06"
+    },
+    "30": {
+      "Name": "Lentilis",
+      "Image": "https://i.ndtvimg.com/i/2017-08/lentil_650x400_51504097396.jpg",
+      "Description": "Contrary to popular belief, the food of Andhra Pradesh and Telangana isn't the same and in fact has always been distinct. The people of Telangana eat a lot of millets, seasonal greens, lentils, cumin, ginger are commonly used in their food.",
+      "Price": "150",
+      "MenuId": "06"
+    },
+    "31": {
+      "Name": "Guacamole",
+      "Image": "https://i.ndtvimg.com/i/2015-03/guacamole_625x350_51426065036.jpg",
+      "Description": "Spice up your Mexican menu with a generous serving of the traditional Mexican dip. It is made with avocados which is an amazing source of protein, especially for vegetarians.",
+      "Price": "200",
+      "MenuId": "07"
+    },
+    "32": {
+      "Name": "Chilli Con Carne",
+      "Image": "https://i.ndtvimg.com/i/2015-03/chili-con-carne_625x350_41426065733.jpg",
+      "Description": "Indulge in a steamy bowl of this spicy Mexican stew, rich with the goodness of beans and meat. Serve with some freshly baked focaccia.",
+      "Price": "200",
+      "MenuId": "07"
+    },
+    "33": {
+      "Name": "Tomato Salsa",
+      "Image": "https://i.ndtvimg.com/i/2015-03/tomato-salsa_625x350_71426066139.jpg",
+      "Description": "Contrary to popular belief, the food of Andhra Pradesh and Telangana isn't the same and in fact has always been distinct. The people of Telangana eat a lot of millets, seasonal greens, lentils, cumin, ginger are commonly used in their food.",
+      "Price": "200",
+      "MenuId": "07"
+    },
+    "34": {
+      "Name": "Enchiladas",
+      "Image": "https://i.ndtvimg.com/i/2017-08/lentil_650x400_51504097396.jpg",
+      "Description": "Enchilada is a soft corn toritalla which is stuffed with a filling, draped in sauce and baked perfect.",
+      "Price": "200",
+      "MenuId": "07"
+    },
+    "35": {
+      "Name": "Guilt-Free Chilli",
+      "Image": "https://i.ndtvimg.com/i/2015-03/guilt-free-chilli_625x350_71426067096.jpg",
+      "Description": "A lip-smacking blend of kidney beans, chillies, cheese, tomatoes and chicken to go with baked bread or nachos.",
+      "Price": "200",
+      "MenuId": "07"
+    },
+    "36": {
+      "Name": "Gulab Jamun",
+      "Image": "https://i.ndtvimg.com/i/2016-10/gulab-jamun_620x350_81477049812.jpg",
+      "Description": "The good old delight made with khoya, fried golden and finally dipped in saffron induced sugar syrup. Also a festive favourite!",
+      "Price": "80",
+      "MenuId": "09"
+    },
+    "37": {
+      "Name": "Gajar Halwa Sunehri",
+      "Image": "https://i.ndtvimg.com/i/2017-10/gajar-ka-halwa-recipe_620x330_51507896671.jpg",
+      "Description": "Warm your winter with this recipe that is sure to delight even the pickiest of dessert eaters! Halwa made Pakistani style with grated carrot, condensed milk, nuts and golden varq.",
+      "Price": "80",
+      "MenuId": "09"
+    },
+    "38": {
+      "Name": "Sandesh",
+      "Image": "https://i.ndtvimg.com/i/2015-04/sandesh_625x350_61429075929.jpg",
+      "Description": "A melt-in-the-mouth dessert! Bengal's super hit sweet, made with cottage cheese, cardamom and saffron. One of the easiest way to please the sweet tooth!",
+      "Price": "80",
+      "MenuId": "09"
+    },
+    "39": {
+      "Name": "Modak",
+      "Image": "https://i.ndtvimg.com/i/2017-10/modak_620x330_61507032438.jpg",
+      "Description": "Sweet flour dumplings stuffed with coconut, jaggery, nutmeg and saffron. Steamed to perfection. A famous Indian dessert prepared during the festival of Ganesh Chaturthi.",
+      "Price": "80",
+      "MenuId": "09"
+    },
+    "40": {
+      "Name": "Paal Payasam",
+      "Image": "https://i.ndtvimg.com/i/2016-03/payasam-625_625x350_41459346459.jpg",
+      "Description": "The South Indian version of kheer is known as payasam. Deliciously creamy, rice and milk pudding with cashews and raisins.",
+      "Price": "80",
+      "MenuId": "09"
+    },
+    "41": {
+      "Name": "Watermelon Lychee Granita",
+      "Image": "https://i.ndtvimg.com/i/2016-05/watermelon-juice_625x350_81464002799.jpg",
+      "Description": "A refreshing way to beat the heat. Throw in some watermelon pieces along with ginger, mint leaves, lemon and lychee topped with lots of ice!",
+      "Price": "70",
+      "MenuId": "08"
+    },
+    "42": {
+      "Name": "Cool Kiwi Jiuce",
+      "Image": "https://i.ndtvimg.com/i/2016-05/kiwi-juice_625x350_71464002837.jpg",
+      "Description": "A tall glass of refreshing drink with cucumber, kiwi and the zing of Thai ginger.",
+      "Price": "70",
+      "MenuId": "08"
+    },
+    "43": {
+      "Name": "Aam Ras",
+      "Image": "https://i.ndtvimg.com/i/2015-04/aam-ras_625x350_41429705345.jpg",
+      "Description": "The fruit of the summer shines its way into your glass. A lovely blend of mango pulp, lime juice and spices.",
+      "Price": "70",
+      "MenuId": "08"
+    },
+    "44": {
+      "Name": "Ananas Da Pani",
+      "Image": "https://i.ndtvimg.com/i/2016-05/pineapple-juice_625x350_61464003149.jpg",
+      "Description": "A twist to the popular mango drink, this recipe calls for fresh pineapple pulp which is blended with cumin powder, black salt and lime juice.",
+      "Price": "70",
+      "MenuId": "08"
+    },
+    "45": {
+      "Name": "Lychee and Dill Juice",
+      "Image": "https://i.ndtvimg.com/i/2016-05/lychee-juice_625x350_41464003181.jpg",
+      "Description": "Make the most of lychees by using them to make this delicious summer cooler. Add lime and fresh dill for some zing.",
+      "Price": "70",
+      "MenuId": "08"
+    },
+    "01": {
+      "Name": "Honey Chilli Potatoes",
+      "Image": "https://i.ndtvimg.com/i/2017-11/honey-chilli-potatoes_620x330_51511868642.jpg",
+      "Description": "This is one of the most popular Chinese starters and is actually so easy to make that you don't have to rush to a restaurant or café each time the cravings hit.",
+      "Price": "110",
+      "MenuId": "01"
+    },
+    "02": {
+      "Name": "Hara Bhara Kebab",
+      "Image": "https://i.ndtvimg.com/i/2017-11/matar-ke-kebab-recipe_724x483_41509692694.jpg",
+      "Description": "The vegetable patty like snack made with the goodness of spinach and green peas is not only delicious but packed with nutrition too.",
+      "Price": "120",
+      "MenuId": "01"
+    },
+    "03": {
+      "Name": "Corn Fritters with Roasted Bell Pepper Sauce",
+      "Image": "https://i.ndtvimg.com/i/2017-04/corn-fritters_620x350_71491380801.jpg",
+      "Description": "This new year whip up this scrumptious snack and be the star of your New Year's party.",
+      "Price": "150",
+      "MenuId": "01"
+    },
+    "04": {
+      "Name": "Chilli Paneer Dry",
+      "Image": "https://i.ndtvimg.com/i/2017-09/rumali-paneer_620x330_41506595204.jpg",
+      "Description": "Chilly paneer dry made with succulent pieces of paneer, tossed in special chilly sauce and served with tangy onions and greens is heartwarming treat no one can say no to.",
+      "Price": "120",
+      "MenuId": "01"
+    },
+    "05": {
+      "Name": "Rajma Kebab",
+      "Image": "https://i.ndtvimg.com/i/2016-03/rajma-kebab-625_625x350_81456813368.jpg",
+      "Description": "And you thought your dear Rajma was only good as a gravy! Packing the goodness of soaked and minced kidney beans, coated in gram flour and deep fried till brown.",
+      "Price": "120",
+      "MenuId": "01"
+    },
+    "06": {
+      "Name": "Cold Cream of Green Pea Soup",
+      "Image": "https://i.ndtvimg.com/i/2016-05/pea-soup_625x350_71462874145.jpg",
+      "Description": "An easy to make pea soup with the goodness of yogurt that can be served hot or cold. This soup recipe is quite easy to make and appetising at the same time as well.",
+      "Price": "150",
+      "MenuId": "02"
+    },
+    "07": {
+      "Name": "Radish Soup with Tofu Miso Cream",
+      "Image": "https://c.ndtvimg.com/2018-10/haggq8nc_soup_625x300_31_October_18.jpg?downsize=650:400&output-quality=70&output-format=webp",
+      "Description": "Creamy soup made out of radishes, spring onion, celery and vegetable stock, topped off with luscious cream made of tofu, orange juice and honey.",
+      "Price": "150",
+      "MenuId": "02"
+    },
+    "08": {
+      "Name": "Basil Tomato Soup",
+      "Image": "https://i.ndtvimg.com/i/2016-06/tomato-soup_500x375_51466188918.jpg",
+      "Description": "Tomatoes and carrots blended together in this soup, garnished with basil leaves, olive oil and lemon zest.",
+      "Price": "150",
+      "MenuId": "02"
+    },
+    "09": {
+      "Name": "Baby Corn Soup",
+      "Image": "https://i.ndtvimg.com/i/2015-12/soup_625x350_71449221203.jpg",
+      "Description": "A baby corn soup with the goodness of cabbage, capsicum and mushrooms. A delight on a wintery night. Add a bit of black pepper in it and you're done for the day.",
+      "Price": "150",
+      "MenuId": "02"
+    }
+  }
+ 	
+}

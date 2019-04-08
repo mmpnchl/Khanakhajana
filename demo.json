@@ -1,0 +1,46 @@
+
+{
+  "FoodCategory": {
+    "10": {
+      "Name": "Veg Hakka Noodles",
+      "Image": "https://i.ndtvimg.com/i/2018-03/noodles_620x350_51520935526.jpg?downsize=650:400&output-quality=70&output-format=webp"
+    },
+    "01": {
+      "Name": "Sarson Ka Saag Aur Makki Ki Roti",
+      "Image": "https://i.ndtvimg.com/i/2015-01/saag_625x350_51420779118.jpg"
+    },
+    "02": {
+      "Name": "Chole Bhature",
+      "Image": "https://i.ndtvimg.com/i/2015-01/625-chole-bhature_625x350_41420696838.jpg"
+    },
+    "03": {
+      "Name": "Masala Channa",
+      "Image": "https://i.ndtvimg.com/i/2015-07/chickpeas_625x350_71436244372.jpg?downsize=630:380&output-quality=70&output-format=webp"
+    },
+    "04": {
+      "Name": "Dal Makhani",
+      "Image": "https://i.ndtvimg.com/i/2015-01/dal-makhni-625_625x350_61420697068.jpg"
+    },
+    "05": {
+      "Name": "Machchli Amritsari",
+      "Image": "https://i.ndtvimg.com/i/2017-03/fish-tikka_725x483_51488522042.jpg"
+    },
+    "06": {
+      "Name": "Paneer Tikka",
+      "Image": "https://i.ndtvimg.com/i/2015-01/paneer-tikka-625_625x350_81420697374.jpg"
+    },
+    "07": {
+      "Name": "Punjabi Kadhi Pakodi Recipe",
+      "Image": "https://c.ndtvimg.com/2018-11/q3nni1rg_kadhi_625x300_16_November_18.jpg"
+    },
+    "08": {
+      "Name": "Murgh Malaiwala",
+      "Image": "https://i.ndtvimg.com/i/2015-01/murgh-malai-625_625x350_51420697474.jpg"
+    },
+    "09": {
+      "Name": "Amritsari Kulcha Recipe",
+      "Image": "https://c.ndtvimg.com/2018-11/ski2k3g8_amritsari-kulcha_625x300_16_November_18.jpg"
+    }
+  },
+  
+}
